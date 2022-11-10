@@ -1,1 +1,2 @@
-# DIO_-Construindo-seu-Primeiro-Projeto-L-gico-de-Banco-de-Dados
+# DIO_-Construindo-seu-Primeiro-Projeto-Logico-de-Banco-de-Dados
+EM CONSTRUÇÃO
